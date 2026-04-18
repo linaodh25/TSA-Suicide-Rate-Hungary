@@ -8,9 +8,6 @@ Time series analysis of suicide rate trends in Hungary.
 - Applies ARIMA/SARIMA modeling
 - Tests stationarity (ADF test)
 
-## Tools
-Python, Pandas, NumPy, Matplotlib, Seaborn, StatsModels
-
 ## Methods
 - Time series decomposition
 - ACF/PACF analysis
